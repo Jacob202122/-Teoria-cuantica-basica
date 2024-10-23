@@ -45,9 +45,9 @@ $$
 $$
 Podemos concluir que:
 $$
-C_0y = 0
-C_1y = 0
-C_0x = 1
+C_0y = 0,
+C_1y = 0,
+C_0x = 1,
 C_1x = 1
 $$
 
