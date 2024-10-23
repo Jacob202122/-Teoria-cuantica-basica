@@ -21,8 +21,12 @@ Trabajemos en el sistema de dos partículas más simple y no trivial: cada part�
 $$
 |\psi\rangle = |x_0\rangle \otimes |y_1\rangle + |x_1\rangle \otimes |y_1\rangle
 $$
-acontinuación escribimos esto como combinacion lineal
+A continuación escribimos esto como combinacion lineal
 $$
 |\psi\rangle = 0|x_0\rangle \otimes |y_0\rangle + 1|x_0\rangle \otimes |y_1\rangle + 1|x_1\rangle \otimes |y_1\rangle
 $$
+Luego
+$$
+|\psi_x\rangle = C_0x|x_0\rangle 
+
 
