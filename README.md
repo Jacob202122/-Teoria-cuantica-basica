@@ -5,7 +5,7 @@ Trabajemos en el sistema de dos partículas más simple y no trivial: cada part�
 
 ### Discusiones
 
-1. **Estructura del Estado Cuántico**: El estado \( |\psi\rangle \) se puede expresar como una combinación lineal de productos tensoriales de estados de partículas individuales.
+1. **Estructura del Estado Cuántico**: El estado se puede expresar como una combinación lineal de productos tensoriales de estados de partículas individuales.
 
 2. **Importancia del Producto Tensorial**: Esto resalta la naturaleza del sistema cuántico, donde las propiedades de las partículas no son independientes, y el estado total es una combinación de las contribuciones de cada subsistema.
 
