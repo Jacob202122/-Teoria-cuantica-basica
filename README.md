@@ -27,7 +27,13 @@ $$
 $$
 Luego
 $$
-|\psi_x\rangle = C_0|x_0\rangle 
+|\psi_x\rangle = C_0|x_0\rangle + C_1|x_1\rangle
+|\psi_y\rangle = C_0|y_0\rangle + C_1|y_1\rangle
+
+$$
+Despues
+$$
+|\psi_x\rangle \otimes |\psi_y\rangle = C_0C_0|x_0\rangle \otimes |y_0\rangle + 1|x_0\rangle \otimes |y_1\rangle + 1|x_1\rangle \otimes |y_1\rangle
 $$
 
 
