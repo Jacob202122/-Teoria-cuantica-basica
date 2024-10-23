@@ -43,5 +43,10 @@ Después:
 $$
 |\psi_x\rangle \otimes |\psi_y\rangle = C_0xC_0y|x_0\rangle \otimes |y_0\rangle + C_0xC_1y|x_0\rangle \otimes |y_1\rangle + C_1xC_0y|x_1\rangle \otimes |y_0\rangle + C_1xC_1y|x_1\rangle \otimes |y_1\rangle
 $$
-
+Podemos concluir que:
+$$
+C_0y = 0
+C_1y = 0
+C_0x = 1
+C_1x = 1
 
