@@ -14,3 +14,6 @@ Trabajemos en el sistema de dos partículas más simple y no trivial: cada part�
 4. **Indeterminación Cuántica**: La forma del estado refleja la indeterminación inherente de los sistemas cuánticos, donde el resultado de una medición no se determina hasta que se realiza.
 
 5. **Relevancia en Computación Cuántica**: La comprensión de cómo estos estados se combinan es esencial para aplicaciones en computación cuántica, donde las propiedades de superposición y entrelazamiento ofrecen ventajas computacionales.
+
+### Ejemplo 4.5.3
+P(∣e⟩∣ψ⟩) = ∣⟨e∣ψ⟩∣^2
