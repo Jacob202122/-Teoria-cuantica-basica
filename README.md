@@ -21,3 +21,8 @@ Trabajemos en el sistema de dos partículas más simple y no trivial: cada part�
 $$
 |\psi\rangle = |x_0\rangle \otimes |y_1\rangle + |x_1\rangle \otimes |y_1\rangle
 $$
+acontinuación escribimos esto como combinacion lineal
+$$
+|\psi\rangle = 0|x_0\rangle \otimes |y_0\rangle + |x_1\rangle \otimes |y_1\rangle
+$$
+
