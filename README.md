@@ -41,7 +41,7 @@ $$
 Después:
 
 $$
-|\psi_x\rangle \otimes |\psi_y\rangle = C_0C_0|x_0\rangle \otimes |y_0\rangle + 1|x_0\rangle \otimes |y_1\rangle + 1|x_1\rangle \otimes |y_1\rangle
+|\psi_x\rangle \otimes |\psi_y\rangle = C_0xC_0y|x_0\rangle \otimes |y_0\rangle + C_0xC_1y|x_0\rangle \otimes |y_1\rangle + C_|x_1\rangle \otimes |y_1\rangle
 $$
 
 
