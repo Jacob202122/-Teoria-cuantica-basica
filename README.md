@@ -27,7 +27,7 @@ $$
 $$
 Luego
 $$
-|\psi_x\rangle = C_0_x|x_0\rangle 
+|\psi_x\rangle = C_0|x_0\rangle 
 $$
 
 
