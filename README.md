@@ -28,5 +28,6 @@ $$
 Luego
 $$
 |\psi_x\rangle = C_0x|x_0\rangle 
+$$
 
 
