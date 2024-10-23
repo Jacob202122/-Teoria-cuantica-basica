@@ -3,7 +3,7 @@
 Trabajemos en el sistema de dos partículas más simple y no trivial: cada partícula solo puede estar en dos puntos. Consideremos el estado
 
 $$
-|\psi\rangle = |x_0\rangle \otimes |y_0\rangle + |x_1\rangle \otimes |y_1\rangle. \tag{4.103}
+(|\psi\rangle = |x_0\rangle \otimes |y_0\rangle + |x_1\rangle \otimes |y_1\rangle. \tag{4.103})
 $$
 
 Para aclarar lo que se deja fuera, podríamos escribir esto como
