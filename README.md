@@ -15,5 +15,9 @@ Trabajemos en el sistema de dos partículas más simple y no trivial: cada part�
 
 5. **Relevancia en Computación Cuántica**: La comprensión de cómo estos estados se combinan es esencial para aplicaciones en computación cuántica, donde las propiedades de superposición y entrelazamiento ofrecen ventajas computacionales.
 
+
 ### Ejemplo 4.5.3
-P(∣e⟩∣ψ⟩) = ∣⟨e∣ψ⟩∣^2
+
+$$
+|\psi\rangle = |x_0\rangle \otimes |y_1\rangle + |x_1\rangle \otimes |y_1\rangle
+$$
